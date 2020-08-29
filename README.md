@@ -10,11 +10,11 @@ In this project I have build a Travel Website with HTML, CSS, JAVASCRIPT, PHP.
 6) Navbar
 
 Screenshots of my project:
-![](screenshot/screenshot-1.PNG)
-![](screenshot/screenshot-2.PNG)
-![](screenshot/screenshot-3.PNG)
-![](screenshot/screenshot-4.PNG)
-![](screenshot/screenshot-5.PNG)
-![](screenshot/screenshot-6.PNG)
-![](screenshot/screenshot-7.PNG)
-![](screenshot/screenshot-8.PNG)
+![](screenshots/screenshot-1.PNG)
+![](screenshots/screenshot-2.PNG)
+![](screenshots/screenshot-3.PNG)
+![](screenshots/screenshot-4.PNG)
+![](screenshots/screenshot-5.PNG)
+![](screenshots/screenshot-6.PNG)
+![](screenshots/screenshot-7.PNG)
+![](screenshots/screenshot-8.PNG)
